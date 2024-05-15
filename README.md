@@ -38,4 +38,7 @@
     <li>Division: Divide one number by another.</li>
 </ul>
 <h3><b>Project Look</b></h3>
-<img src="./img/calculator.png" alt="">
+![calculator](https://github.com/ganeshmohite1808/calculator/assets/147703435/cbd10dbe-5c79-4ffe-afd1-ce39ce42560b)
+![calculator](https://github.com/ganeshmohite1808/calculator/assets/147703435/cbd10dbe-5c79-4ffe-afd1-ce39ce42560b)
+![calculator](https://github.com/ganeshmohite1808/calculator/assets/147703435/cbd10dbe-5c79-4ffe-afd1-ce39ce42560b)
+
